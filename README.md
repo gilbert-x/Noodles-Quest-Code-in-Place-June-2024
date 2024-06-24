@@ -1,6 +1,6 @@
 This is Gilbert X. Gonzalez's final project for Code in Place in June 2024.
 
-Noodles' Quest is a retro style game inspired by rogue-like games and nudibranchs. The maps are procedurally generated. The tiles of coral and sand are each procredurally generated as well. I hope you enjoy the game.
+Noodles' Quest is a retro style game inspired by rogue-like games and nudibranchs. The maps are procedurally generated. The tiles of coral and sand are each procredurally generated as well. I hope you enjoy the game. To play this game you will need to have Python and Pygame installed on your computer (https://www.pygame.org/wiki/GettingStarted). 
 
 Use the num pad to move Noodles the nudibranch around the labrynth of sand and coral. You can use 7, 9, 1, and 3 to move NW, NE, SW, and SE through diagonals. Coral blocks that touch only at the corners don't block diagonal movement. It only matters if the target block is sand or coral. If you can't move or the game seems frozen, the game is probably paused. Press 'p' to unpause.
 
