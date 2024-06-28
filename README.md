@@ -1,4 +1,4 @@
-This is Gilbert X. Gonzalez's final project for Code in Place in June 2024.
+This is Gilbert X. Gonzalez's final project for Code in Place in June 2024. One version was written entirely by myself. The other version has functions written or modified by ChatGPT based on examples of my code that I prompted the model with. 
 
 Noodles' Quest is a retro style game inspired by rogue-like games and nudibranchs. The maps are procedurally generated. The tiles of coral and sand are each procredurally generated as well. I hope you enjoy the game. To play this game you will need to have Python and Pygame installed on your computer (https://www.pygame.org/wiki/GettingStarted). You will also need to download the font and png files.
 
